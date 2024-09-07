@@ -1,0 +1,6 @@
+python-nmap
+scapy
+netifaces
+zeroconf
+requests
+opencv-python
